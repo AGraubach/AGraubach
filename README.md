@@ -1,7 +1,8 @@
-## Helloo, Graubach here (WIP) 👋
+## Helloo, Graubach here 👋
 ## Processing
 
-- 🔭 I'm currently building my homeserver
+- 🔭 HomeLab enthusiast, learning every day
+- 💪 TRUST THE PROCESS!
 - 🌱 Also learning a lot about cloud tools
 - ⚡ Fun fact: I can speak 4 languages
 
